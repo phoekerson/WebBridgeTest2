@@ -17,7 +17,7 @@ A fully functional shopping cart built with **Next.js 15**, **TypeScript**, and 
 
 ## 📸 Demo
 
-> **Live Demo (optional):** [https://https://web-bridge-test2.vercel.app/](https://web-bridge-test2.vercel.app/)
+> **Live Demo :** [https://web-bridge-test2.vercel.app/](https://web-bridge-test2.vercel.app/)
 
 ---
 
