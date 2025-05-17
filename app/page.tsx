@@ -28,8 +28,8 @@ export default function Page() {
 
   return (
     <main className="p-4 max-w-6xl mx-auto">
-      <h1 className="text-2xl font-bold mb-4">Products</h1>
-      <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+      <h1 className="text-3xl font-extrabold mb-6 text-center text-blue-700">🛒 Shop Our Products</h1>
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
         {PRODUCTS.map((product) => (
           <ProductCard key={product.id} product={product} onAdd={addToCart} />
         ))}
